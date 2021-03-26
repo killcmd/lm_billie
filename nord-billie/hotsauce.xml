@@ -2,11 +2,11 @@
 <manifest>
 
   <!-- Billie -->
-<project path="kernel/oneplus/sm6350" name="Billaids/kernel_oneplus_sm6350" remote="github" revision="ten" clone-depth="1"/>
-<project path="device/oneplus/billie" name="Billaids/device_oneplus_billie" remote="github" revision="wip-eleven" clone-depth="1"/>
-<project path="vendor/oneplus/billie" name="Billaids/vendor_oneplus_billie" remote="github" revision="ten" clone-depth="1"/>
-<project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master" clone-depth="1"/>
-<project path="packages/apps/GoogleCamera" name="CryllicBuster273/packages_apps_googlecamera" remote="github" revision="ten" clone-depth="1"/>
-<project path="packages/apps/PixelLiveWallpaper" name="PixelExperience/packages_apps_PixelLiveWallpaper" remote="gitlab" revision="ten" clone-depth="1"/>
+<project path="kernel/oneplus/sm6350" name="Billaids/kernel_oneplus_sm6350" remote="github" revision="ten"/>
+<project path="device/oneplus/billie" name="Billaids/device_oneplus_billie" remote="github" revision="wip-eleven"/>
+<project path="vendor/oneplus/billie" name="Billaids/vendor_oneplus_billie" remote="github" revision="ten"/>
+<project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master"/>
+<project path="packages/apps/GoogleCamera" name="KakatkarAkshay/packages_apps_googlecamera" remote="gitlab" revision="ten"/>
+<project path="packages/apps/PixelLiveWallpaper" name="PixelExperience/packages_apps_PixelLiveWallpaper" remote="gitlab" revision="ten"/>
 
 </manifest>
