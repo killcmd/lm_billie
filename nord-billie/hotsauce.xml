@@ -6,7 +6,7 @@
 <project path="device/oneplus/billie" name="Billaids/device_oneplus_billie" remote="github" revision="wip-eleven"/>
 <project path="vendor/oneplus/billie" name="Billaids/vendor_oneplus_billie" remote="github" revision="ten"/>
 <project path="prebuilts/clang/host/linux-x86/clang-proton" name="kdrag0n/proton-clang" remote="github" revision="master"/>
-<project path="packages/apps/GoogleCamera" name="KakatkarAkshay/packages_apps_googlecamera" remote="gitlab" revision="ten"/>
-<project path="packages/apps/PixelLiveWallpaper" name="PixelExperience/packages_apps_PixelLiveWallpaper" remote="gitlab" revision="ten"/>
+<!-- <project path="packages/apps/GoogleCamera" name="KakatkarAkshay/packages_apps_googlecamera" remote="gitlab" revision="ten"/>
+<project path="packages/apps/PixelLiveWallpaper" name="PixelExperience/packages_apps_PixelLiveWallpaper" remote="gitlab" revision="ten"/> -->
 
 </manifest>
